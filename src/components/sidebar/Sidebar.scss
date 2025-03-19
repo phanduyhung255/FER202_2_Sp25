@@ -1,0 +1,34 @@
+.sideBar {
+  border-right: 1px solid #f9004d;
+  padding: 20px;
+  margin-right: 20px;
+  min-height: 690px;
+
+  h2 {
+    font-size: 2.4rem;
+    font-weight: bold;
+  }
+
+  hr {
+    font-size: 2px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  .categoryItems {
+    padding: 10px 4px;
+
+    li {
+      color: #f9004d;
+      font-size: 1.2rem;
+      font-weight: 400;
+      transition: .4s;
+      cursor: pointer;
+      &:hover {
+        transform: scale(1.2);
+      }
+    }
+  }
+}

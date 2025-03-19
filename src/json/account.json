@@ -1,0 +1,30 @@
+[
+	{
+		"id" : 1,
+		"name": "Ngô Tuấn Địch",
+		"email": "ngotuandich@gmail.com",
+		"password": "12345678",
+		"gender": "Nam"
+	},
+	{
+		"id" : 2,
+		"name": "Phùng Địch Thủ",
+		"email": "phungdichthu@gmail.com",
+		"password": "12345678",
+		"gender": "Nam"
+	},
+	{
+		"id" : 3,
+		"name": "Nguyễn Anh Tuấn",
+		"email": "nguyenanhtuan@gmail.com",
+		"password": "12345678",
+		"gender": "Nam"
+	},
+	{
+		"id" : 4,
+		"name": "Bách Thị Phương",
+		"email": "bachthiphuong@gmail.com",
+		"password": "12345678",
+		"gender": "Nữ"
+	}
+]

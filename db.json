@@ -1,0 +1,522 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "name": "Ngô Tuấn Địch",
+      "email": "ngotuandich@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Phùng Địch Thủ",
+      "email": "phungdichthu@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Anh Tuấn",
+      "email": "nguyenanhtuan@gmail.com",
+      "password": "12345678",
+      "gender": "Nam",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Bách Thị Phương",
+      "email": "bachthiphuong@gmail.com",
+      "password": "12345678",
+      "gender": "Nữ",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Vuong",
+      "email": "vuong",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 0,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Hoan",
+      "email": "hoan ",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Hoan",
+      "email": "hoan",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Quan",
+      "email": "quan",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Khanh",
+      "email": "khanh",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "1",
+      "email": "1",
+      "password": "1",
+      "gender": "Male",
+      "role": 1,
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "Thanh",
+      "email": "thanh",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 1,
+      "active": false
+    },
+    {
+      "id": 12,
+      "name": "Huy",
+      "email": "huy",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 1,
+      "active": false
+    },
+    {
+      "id": 13,
+      "name": "Vuong",
+      "email": "vuong1",
+      "password": "12345678",
+      "gender": "Male",
+      "role": 1,
+      "active": false
+    },
+    {
+      "id": 14,
+      "name": "kemanhnhat",
+      "email": "kehuydiet@gmail.com",
+      "password": "123",
+      "gender": "Female",
+      "role": 1,
+      "active": false
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "Vua hải tặc",
+      "year": 2022,
+      "type": "Hoạt hình",
+      "typeID": 4,
+      "score": "9.5",
+      "description": "One Piece, từng được xuất bản tại Việt Nam dưới tên gọi Đảo Hải Tặc là bộ manga dành cho lứa tuổi thiếu niên của tác giả Oda Eiichiro, được đăng định kì trên tạp chí Weekly Shōnen Jump, ra mắt lần đầu trên ấn bản số 34 vào ngày 19 tháng 7 năm 1997.12231",
+      "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/2e5c6d37_566f_4274_b62d_ebf5fcbd0722.png",
+      "filmUrl": "https://short.ink/JS6WO2Mm8"
+    },
+    {
+      "id": 2,
+      "name": "John Wick",
+      "year": 2020,
+      "type": "Hành động",
+      "typeID": 1,
+      "score": "6.5",
+      "description": "Sát thủ John Wick: Phần 3 – Chuẩn bị chiến tranh là một bộ phim hành động tội phạm Mỹ năm 2019, với sự tham gia diễn xuất của Keanu Reeves trong vai nhân vật chính trong phần ba của loạt phim Sát thủ John Wick, sau Sát thủ John Wick và Sát thủ John Wick: Phần 2.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+      "filmUrl": "https://short.ink/JS6WO2Mm8"
+    },
+    {
+      "id": 3,
+      "name": "Game of Thrones",
+      "year": 2011,
+      "type": "Hành động",
+      "typeID": 1,
+      "score": "8.1",
+      "description": "Trò chơi vương quyền (tựa gốc tiếng Anh: Game of Thrones) là một loạt phim truyền hình giả tưởng của Mỹ được sáng lập bởi David Benioff và D. B. Weiss. Bộ phim chuyển thể dựa trên loạt tiểu thuyết giả tưởng A Song of Ice and Fire của tác giả George R. R. Martin, tập đầu tiên của tiểu thuyết có tên A Game of Thrones. Phim được quay tại Titanic Studios ở Belfast, và ở những nơi khác như Vương quốc Anh, Croatia, Iceland, Malta, Morocco, Tây Ban Nha, và Hoa Kỳ.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+      "filmUrl": "https://short.ink/JS6WO2Mm8"
+    },
+    {
+      "id": 4,
+      "name": "Naruto",
+      "year": 2019,
+      "type": "Hoạt hình",
+      "typeID": 4,
+      "score": "8.5",
+      "description": "Naruto là một bộ truyện tranh Nhật Bản được viết và minh họa bởi Masashi Kishimoto. Nó kể về câu chuyện của Naruto Uzumaki, một ninja trẻ tìm kiếm sự công nhận từ các đồng nghiệp của mình và ước mơ trở thành Hokage, người đứng đầu ngôi làng của mình .1",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "filmUrl": "https://short.ink/JS6WO2Mm8"
+    },
+    {
+      "id": 5,
+      "name": "Cuốn theo chiều gió",
+      "year": 2010,
+      "type": "Tình cảm",
+      "typeID": 2,
+      "score": "9.0",
+      "description": "Cuốn theo chiều gió, xuất bản lần đầu năm 1936, là một cuốn tiểu thuyết tình cảm của Margaret Mitchell, người đã giành giải Pulitzer với tác phẩm này năm 1937. Câu chuyện được đặt bối cảnh tại Georgia và Atlanta, miền Nam Hoa Kỳ trong suốt thời kì nội chiến và thời tái thiết.",
+      "imageUrl": "https://media1.nguoiduatin.vn/media/nguyen-minh-anh/2019/01/28/ndt14.jpg",
+      "filmUrl": "https://short.ink/JS6WO2Mm8"
+    },
+    {
+      "id": 6,
+      "name": "Avengers",
+      "year": "2021",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": 4,
+      "score": "8.5",
+      "description": "Bộ phim Avenger",
+      "imageUrl": "https://i.pinimg.com/736x/f4/80/c6/f480c63fd10300e78c3ffc9c1050bcb8.jpg",
+      "filmUrl": "https://short.ink/JS6WO2Mm8"
+    },
+    {
+      "id": 7,
+      "name": "50 Sắc Thái",
+      "year": "2020",
+      "type": "Tình cảm",
+      "typeID": 2,
+      "score": "10.0",
+      "description": "Bộ phim tình cảm ",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/vi/4/4b/Fifty-Gray-poster.jpg",
+      "filmUrl": "https://short.ink/JS6WO2Mm8"
+    },
+    {
+      "id": 10,
+      "name": "Hàng xóm của tôi là Totoro",
+      "year": "1988",
+      "type": "Hoạt hình",
+      "typeID": 4,
+      "score": 0,
+      "description": "Hàng xóm của tôi là Totoro là một phim hoạt hình Nhật Bản được hãng Ghibli sản xuất vào năm 1988, vua hoạt hình của Nhật Bản Miyazaki Hayao viết kịch bản và1 đạo diễn.",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679499606/rn205sdvumsk1nxqrpnb.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 11,
+      "name": "Spider Man 1",
+      "year": "2020",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": "5",
+      "score": "N/A",
+      "description": "Người nhện là một siêu anh hùng hư cấu trong các truyện tranh xuất bản bởi Marvel Comics. Nhân vật này được sáng tạo bởi nhà văn Stan Lee và nhà văn-nghệ sĩ Steve Ditko, lần đầu xuất hiện trong Amazing Fantasy",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679501630/gevgdefjsfq2ic9xcbkg.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 12,
+      "name": "Captain America",
+      "year": "2019",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": "5",
+      "score": "N/A",
+      "description": "Captain America là một siêu anh hùng hư cấu xuất hiện trong truyện tranh của Hoa Kỳ được xuất bản bởi Marvel Comics. Được tạo bởi họa sĩ truyện tranh Joe Simon và Jack Kirby, nhân vật lần đầu tiên xuất hiện trong Captain America Comics",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679502646/nvcekrzqbbcsavgljlqu.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 13,
+      "name": "Iron Man",
+      "year": "2020",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": "5",
+      "score": "N/A",
+      "description": "Một bộ phim điện ảnh đề tài siêu anh hùng của Mỹ năm 2008 dựa trên nhân vật truyện tranh cùng tên của Marvel Comics",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679502771/lfdvnrxfkipvyv1gftoj.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 14,
+      "name": "Tom & Jerry",
+      "year": "2000",
+      "type": "Hoạt hình",
+      "typeID": "4",
+      "score": "N/A",
+      "description": "Tom và Jerry là một series phim hoạt hình của Mỹ được chiếu trên truyền hình và rạp hát với nhiều thể loại từ phim ngắn cho tới phim dài.",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679505385/sml2b3fnwrgtnqge3hjl.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 15,
+      "name": "Hulk",
+      "year": "2017",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": "5",
+      "score": "N/A",
+      "description": "Người khổng lồ xanh",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679505465/obd99pjql0gv3afey7zj.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 16,
+      "name": "Nhà Bà Nữ",
+      "year": "2023",
+      "type": "Tình cảm",
+      "typeID": "2",
+      "score": "N/A",
+      "description": "Nhà bà Nữ là một bộ phim điện ảnh chính kịch, gia đình của Việt Nam năm 2023 do Trấn Thành sản xuất kiêm đạo diễn. Bộ phim do Đỗ Hoàng Vũ, quản lý của Trấn Thành và Hari Won đảm nhận vai trò đồng sản xuất",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679508915/ubsmurmad53dply7y9cv.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 17,
+      "name": "Inception",
+      "year": "2010",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": 5,
+      "score": "8.0",
+      "description": "Inception (tựa tiếng Việt: Kẻ đánh cắp giấc mơ) là một bộ phim điện ảnh hành động khoa học viễn tưởng Mỹ ra mắt năm 2010 do Christopher Nolan đạo diễn kiêm nhà sản xuất và viết kịch bản. Bộ phim có sự góp mặt của dàn diễn viên lớn, bao gồm Leonardo DiCaprio, Elliot Page, Joseph Gordon-Levitt, Marion Cotillard, Ken Watanabe, Tom Hardy, Dileep Rao, Cillian Murphy, Tom Berenger, và Michael Caine. DiCaprio vào vai Dom Cobb, một kẻ cắp chuyên nghiệp chuyên thực hiện các hoạt động gián điệp kinh tế bằng cách xâm nhập vào tiềm thức mục tiêu của anh ta. Cobb được đề nghị thực hiện một nhiệm vụ để chuộc lại cuộc đời cho mình, một nhiệm vụ bất khả thi: \"ý tưởng khởi nguồn\" - cấy ghép ý tưởng của một người vào trong tiềm thức của người khác.",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679530658/iugorwe2vjloelrwasu7.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 18,
+      "name": "Mèo Oggy và những chú gián tinh nghịch",
+      "year": "2019",
+      "type": "Hoạt hình",
+      "typeID": "4",
+      "score": "N/A",
+      "description": "Mèo Oggy và những chú gián tinh nghịch là một bộ phim hoạt hình của Pháp được phối hợp sản xuất bởi hai hãng phim Gaumont và Xilam",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679542401/tv1vcnqyo7lnsremcyur.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 19,
+      "name": "Đấu phá thương khung",
+      "year": "2018",
+      "type": "Anime",
+      "typeID": "6",
+      "score": "N/A",
+      "description": "Đấu phá thương khung là một bộ phim truyền hình Trung Quốc năm 2018, được chuyển thể từ tiểu thuyết cùng tên của nhà văn Thiên Tầm Thổ Đậu. ",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679542495/k1tfylov7pgcxi3zosl6.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 20,
+      "name": "Ở nhà một mình",
+      "year": "1990",
+      "type": "Hành động",
+      "typeID": 1,
+      "score": "8.0",
+      "description": "Ở nhà một mình là một bộ phim hài của Mỹ sản xuất vào năm 1990 kể về cậu bé Kevin bị gia đình bỏ rơi khi đi nghỉ Noel chỉ vì mâu thuẫn với mẹ cậu. Trong thời gian này, cậu rất vui vẻ nhưng bị vướng rắc rối với hai tên trộm. Sau đó cậu ra kế hoạch đặt bẫy và cho chúng bài học.",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679543852/yro54u4ucmgb1zraxbad.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 21,
+      "name": "Về Nhà Đi Con",
+      "year": "2019",
+      "type": "Tình cảm",
+      "typeID": "2",
+      "score": "N/A",
+      "description": "Về nhà đi con là một bộ phim truyền hình được thực hiện bởi Trung tâm Phim truyền hình Việt Nam, Đài Truyền hình Việt Nam do NSƯT Nguyễn Danh Dũng làm đạo diễn",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679544012/u8tdqtjucfkkii2bss0h.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 22,
+      "name": "Chị Chị Em Em 2",
+      "year": "2023",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": "5",
+      "score": "N/A",
+      "description": "Dựa trên giai thoại về hai đệ nhất mỹ nhân Sài thành Ba Trà & Tư Nhị, Minh Hằng & Ngọc Trinh mang về doanh thu hơn 120 tỷ đồng, á quân phòng vé ba tuần liên tiếp trên đường đua phim Tết 2023.",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679544569/kmg6dwewqmhf3r5nxivn.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 23,
+      "name": "Big Mouth",
+      "year": "2022",
+      "type": "Khoa học - Nghệ thuật",
+      "typeID": "5",
+      "score": "N/A",
+      "description": "Big Mouth là bộ phim truyền hình Hàn Quốc với sự tham gia của Lee Jong-suk, Im Yoon-ah và Kim Joo-Hun",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679553652/c3oaxt3sghfgnmiwsqea.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    },
+    {
+      "id": 24,
+      "name": "Trung Dep Zai",
+      "year": "2019",
+      "type": "Hành động",
+      "typeID": 1,
+      "score": "N/A",
+      "description": "Trung",
+      "imageUrl": "http://res.cloudinary.com/dwrjzyqnw/image/upload/v1679559878/nuykaykfxbp4nrnpw81d.jpg",
+      "filmUrl": "https://short.ink/h6E6NF6m1"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "content": "Phim hay thật sự",
+      "user_id": 1,
+      "movie_id": 1,
+      "star": 9
+    },
+    {
+      "id": 2,
+      "content": "Phim dở ẹc",
+      "user_id": 1,
+      "movie_id": 2,
+      "star": 3
+    },
+    {
+      "id": 3,
+      "content": "Tạm được",
+      "user_id": 2,
+      "movie_id": 3,
+      "star": 6
+    },
+    {
+      "id": 4,
+      "content": "Đoạn đốt going merry cảm động quá :(",
+      "user_id": 3,
+      "movie_id": 1,
+      "star": 9.5
+    },
+    {
+      "id": 5,
+      "content": "Tàm tạm",
+      "user_id": 4,
+      "movie_id": 4,
+      "star": 7
+    },
+    {
+      "id": 6,
+      "content": "John chả biết gì cả",
+      "user_id": 3,
+      "movie_id": 3,
+      "star": 8.2
+    },
+    {
+      "id": 7,
+      "content": "Đúng là kiệt tác điện ảnh",
+      "user_id": 1,
+      "movie_id": 5,
+      "star": 9
+    },
+    {
+      "star": "9",
+      "content": "Phim tàm tạm.",
+      "user_id": 1,
+      "movie_id": "6",
+      "id": 14
+    },
+    {
+      "star": "10",
+      "content": "Nếu có thang điểm 100, thì phim là 1000/100.",
+      "user_id": 1,
+      "movie_id": "7",
+      "id": 15
+    },
+    {
+      "user_id": 11,
+      "movie_id": "4",
+      "id": 16,
+      "star": "10",
+      "content": "Cũng tạm á!"
+    },
+    {
+      "star": "10",
+      "content": "Phim Hay thật sự",
+      "user_id": 5,
+      "movie_id": "1",
+      "id": 17
+    },
+    {
+      "star": "10",
+      "content": "Phim ổn đấy chứ.",
+      "user_id": 10,
+      "movie_id": "3",
+      "id": 18
+    },
+    {
+      "star": "8",
+      "content": "Phim hay nhưng hại não!",
+      "user_id": 5,
+      "movie_id": "17",
+      "id": 19
+    },
+    {
+      "star": "8",
+      "content": "Phim ổn đấy.",
+      "user_id": 2,
+      "movie_id": "6",
+      "id": 20
+    },
+    {
+      "star": "8",
+      "content": "Tội hai tên trộm quá, nhân vật chính ác thật.",
+      "user_id": 5,
+      "movie_id": "20",
+      "id": 21
+    },
+    {
+      "content": "hello",
+      "star": "10",
+      "user_id": 5,
+      "movie_id": "2",
+      "id": 22
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "category": "Hành động"
+    },
+    {
+      "id": 2,
+      "category": "Tình cảm"
+    },
+    {
+      "id": 3,
+      "category": "Kinh dị"
+    },
+    {
+      "id": 4,
+      "category": "Hoạt hình"
+    },
+    {
+      "id": 5,
+      "category": "Khoa học - Nghệ thuật"
+    },
+    {
+      "id": 6,
+      "category": "Anime"
+    },
+    {
+      "id": 7,
+      "category": "Thieu Nhi"
+    },
+    {
+      "id": 8,
+      "category": "Thể Thao"
+    }
+  ]
+}
