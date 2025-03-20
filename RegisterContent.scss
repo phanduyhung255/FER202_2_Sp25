@@ -1,0 +1,98 @@
+.registerContent {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px 0;
+  .leftRegister {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+      rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    padding: 0 80px;
+    margin: -30px 0;
+    p{
+      padding: 0 10px;
+    }
+    .input {
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+      width: 120%;
+      label {
+        // text-align: right;
+        font-size: 1rem;
+        font-weight: 500;
+      }
+      input {
+        padding: 4px 8px;
+        border: 1px solid transparent;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.22);
+        outline: none;
+        &:focus {
+          border-bottom: 1px solid #f9004d;
+          transition: 0.4s;
+        }
+      }
+      .genderdetail {
+        display: flex;
+        justify-content: space-around;
+
+        p {
+          margin: 0;
+        }
+      }
+    }
+    .handle {
+      display: flex;
+      justify-content: center;
+      margin: 8px 0;
+      button{
+        padding: 4px 12px;
+        border-radius: 4px;
+        border: 1px solid transparent;
+        background-color: #f9004d;
+        cursor: pointer;
+        color: white;
+        font-weight: 400;
+        transition: .4s;
+        &:hover{
+            transform: scale(1.1);
+        }
+      }
+    }
+    .login{
+        text-align: center;
+        b{
+            margin: 20px;
+        }
+    }
+  }
+
+  .rightRegister {
+    width: 50%;
+    img {
+      width: 320px;
+      position: relative;
+    }
+    h1 {
+      position: absolute;
+      color: white;
+      z-index: 2;
+      width: 320px;
+      text-align: center;
+      font-size: 2.6rem;
+      font-weight: 600;
+      margin-top: 30px;
+    }
+    h2 {
+      position: absolute;
+      color: white;
+      z-index: 2;
+      top: 80%;
+      width: 320px;
+      text-align: center;
+      font-size: 1rem;
+      border-bottom: 1px solid rgba(216, 211, 211, 0.6);
+    }
+  }
+}
