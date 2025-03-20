@@ -1,0 +1,23 @@
+.row {
+  button {
+    margin-left: 15px;
+    padding: 4px 12px;
+    border-radius: 4px;
+    background-color: #f9004d;
+    outline: transparent;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: white;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: .4s;
+    opacity: 0.8;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    &:hover{
+        transform: scale(1.1);
+        opacity: 1;
+        color: black;
+    }
+  }
+}
